@@ -6,8 +6,7 @@
   margin: 0;
   padding: 0;
   box-sizing: 0;
-  font-family: 'League Spartan', sans-serif;
-  font-weight: 300;
+  
 }
 
 :root {
@@ -24,6 +23,8 @@ html,
 body {
   scroll-behavior: smooth;
   line-height: 1.6;
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 300;
 }
 
 a {
@@ -51,5 +52,5 @@ img {
 }
 
 @media(max-width: 576px) {
-  
+
 }

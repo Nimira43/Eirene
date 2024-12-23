@@ -127,6 +127,17 @@ img {
   transition: transform 0.3s ease;
 }
 
+.navbar .mobile-menu-items.active {
+  transform: translateX(0);
+}
+
+.navbar .mobile-menu-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  font-size: 1.2rem;
+}
+
 @media(max-width: 1200px) {
 
 }

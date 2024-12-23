@@ -117,7 +117,7 @@ img {
   top: 100%;
   left: 0;
   width: 100%;
-  background: rgba(0, 0, 0, 0.8);
+  background: var(--dark);
   opacity: 0.95;
   padding: 3rem 2rem;
   text-align: center;

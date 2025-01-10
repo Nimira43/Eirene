@@ -11,7 +11,7 @@
 
 :root {
   --primary: #ff4500;
-  --secondary: #87ceeb;
+  --secondary: #0ac1c1;
   --dark: #111;
   --light: #fffaf0;
   --grey-xl: #eee;
@@ -162,7 +162,7 @@ img {
 .hero {
   background: #000 url('./images/bg.jpg') center center/cover no-repeat;
   padding: 11.5rem 2rem 8rem;
-  color: var(--dark);
+  color: var(--secondary);
   overflow-x: hidden;
   position: relative;
 }

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=League+Spartan:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=League+Spartan:wght@100..900&display=swap');
 
 *,
 *::before,
@@ -71,7 +71,8 @@ img {
 .navbar .logo {
   width: 81px;
   height: 31px;
-  font-family: 'Amatic SC', sans-serif;
+  font-family: 'Fredericka the Great', serif;
+  font-weight: lighter;
   font-size: 30px;
   display: flex;
   align-items: center;

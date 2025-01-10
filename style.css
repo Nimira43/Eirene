@@ -175,6 +175,14 @@ img {
   padding-bottom: 8rem;
 }
 
+.hero h1 {
+  font-size: 3.5rem;
+  line-height: 1.2;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+
 @media(max-width: 1200px) {
 
 }

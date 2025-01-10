@@ -70,7 +70,7 @@ img {
 }
 
 .navbar {
-  /* background: black; */
+  background: black;
   /* background: transparent; */
   color: var(--primary);
   padding: 1rem 2rem;
@@ -157,6 +157,14 @@ img {
   flex-direction: column;
   gap: 2rem;
   font-size: 1.2rem;
+}
+
+.hero {
+  background: #000 url('./images/bg.jpg') center center/cover no-repeat;
+  padding: 11.5rem 2rem 8rem;
+  color: var(--dark);
+  overflow-x: hidden;
+  position: relative;
 }
 
 @media(max-width: 1200px) {

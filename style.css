@@ -50,7 +50,7 @@ img {
 }
 
 .navbar {
-  background: black;
+  /* background: black; */
   /* background: transparent; */
   color: var(--primary);
   padding: 1rem 2rem;

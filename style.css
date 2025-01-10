@@ -194,7 +194,6 @@ img {
   margin-right: -100px;
 }
 
-
 @media(max-width: 1200px) {
   .hero .hero-flex {
     gap: 2rem;
@@ -209,7 +208,17 @@ img {
 }
 
 @media(max-width: 992px) {
-
+  .hero {
+    text-align: center;
+  }
+  .hero .hero-flex {
+    flex-direction: column;
+    padding-bottom: 4rem;
+  }
+  .hero img {
+    max-width: 600px;
+    margin-right: 2rem;
+  }
 }
 
 @media(max-width: 768px) { 

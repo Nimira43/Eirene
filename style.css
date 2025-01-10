@@ -182,6 +182,13 @@ img {
   margin-bottom: 1rem;
 }
 
+.hero p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  line-height: 1.8;
+  font-weight: 400;
+}
+
 
 @media(max-width: 1200px) {
 

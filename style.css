@@ -11,7 +11,7 @@
 
 :root {
   --primary: #ff4500;
-  --secondary: #0ac1c1;
+  --secondary: #feec85;
   --dark: #111;
   --light: #fffaf0;
   --grey-xl: #eee;
@@ -187,6 +187,11 @@ img {
   margin-bottom: 2rem;
   line-height: 1.8;
   font-weight: 400;
+}
+
+.hero img {
+  width: 100%;
+  margin-right: -100px;
 }
 
 

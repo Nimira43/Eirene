@@ -253,6 +253,14 @@ img {
   gap: 2rem;
 }
 
+.topic img {
+  transition: transform 0.3s;
+}
+
+.topic img:hover {
+  transform: scale(1.1);
+}
+
 .topics h3 {
   font-size: 1rem;
   text-transform: uppercase;

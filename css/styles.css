@@ -69,6 +69,14 @@ img {
   color: var(--primary);
 }
 
+.text-primary {
+  color: var(--primary);
+}
+
+.text-secondary {
+  color: var(--dark);
+}
+
 .navbar {
   background: black;
   /* background: transparent; */

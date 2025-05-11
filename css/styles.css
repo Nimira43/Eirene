@@ -6,17 +6,16 @@
   margin: 0;
   padding: 0;
   box-sizing: 0;
-  
 }
 
 :root {
   --primary: #ff4500;
-  --secondary: #feec85;
+  --secondary: #fae467;
   --dark: #111;
-  --light: #fffaf0;
-  --grey-xl: #eee;
-  --grey-lg: #ccc;
-  --grey-dk: #333;
+  --light: #fffcfa;
+  --grey-dark: #333;
+  --grey-light: #ccc;
+  --grey-extra-light: #eee;
 }
 
 html,

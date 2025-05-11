@@ -160,7 +160,7 @@ img {
 }
 
 .hero {
-  background: #000 url('./images/bg.jpg') center center/cover no-repeat;
+  background: #000 url('../images/hero/bg.jpg') center center/cover no-repeat;
   padding: 11.5rem 2rem 8rem;
   color: var(--secondary);
   overflow-x: hidden;

@@ -88,6 +88,17 @@ img {
   margin-bottom: 3rem;
 }
 
+.section-header h2 {
+  font-size: 2rem;
+  font-weight: 400;
+  color: var(--dark);
+  margin-bottom: 0.5rem;
+}
+
+.section-header p {
+  font-size: 1.3rem;
+  color: var(--grey-dk);
+}
 
 
 

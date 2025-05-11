@@ -292,6 +292,10 @@ img {
   .topics {
     grid-template-columns: repeat(2, 1fr);
   }
+  .learn {
+    margin-top: 4rem;
+    margin-bottom: 4rem;   
+  }
 }
 
 @media(max-width: 768px) { 

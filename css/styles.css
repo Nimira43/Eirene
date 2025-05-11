@@ -77,6 +77,10 @@ img {
   color: var(--dark);
 }
 
+.section {
+  margin: 4rem 0;
+}
+
 .navbar {
   background: black;
   /* background: transparent; */

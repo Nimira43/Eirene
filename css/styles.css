@@ -100,7 +100,12 @@ img {
   color: var(--grey-dk);
 }
 
-
+.heading-border {
+  width: 64px;
+  height: 4px;
+  background: var(--primary)
+  margin: 0 auto 2rem;
+}
 
 .navbar {
   background: black;

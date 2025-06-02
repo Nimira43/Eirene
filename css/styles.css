@@ -288,6 +288,12 @@ img {
   margin: 1rem 0;
 }
 
+.backend {
+  background: var(--light);
+  color: var(--dark);
+  padding: 4rem 2rem 5rem;
+}
+
 @media(max-width: 1200px) {
   .hero .hero-flex {
     gap: 2rem;

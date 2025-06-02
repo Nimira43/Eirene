@@ -276,6 +276,11 @@ img {
   padding: 1rem 0 4rem;
 }
 
+.game-dev-cards img {
+  width: 130px;
+  margin-top: 1rem;
+}
+
 @media(max-width: 1200px) {
   .hero .hero-flex {
     gap: 2rem;

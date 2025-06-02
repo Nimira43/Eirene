@@ -289,9 +289,14 @@ img {
 }
 
 .backend {
-  background: var(--light);
+  background: var(--secondary);
   color: var(--dark);
   padding: 4rem 2rem 5rem;
+}
+
+.backend .section-lists {
+  background: var(--primary);
+  padding: 2rem;
 }
 
 @media(max-width: 1200px) {

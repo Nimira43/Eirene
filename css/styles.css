@@ -336,6 +336,13 @@ img {
   display: flex;
 }
 
+.ui-ux-content {
+  background-color: var(--light);
+  color: var(--grey-dark);
+  flex: 1;
+  padding: 4rem;
+}
+
 @media(max-width: 1200px) {
   .hero .hero-flex {
     gap: 2rem;

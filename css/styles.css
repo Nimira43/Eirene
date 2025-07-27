@@ -332,7 +332,8 @@ img {
 }
 
 .ui-ux-container {
-  background: url('../images/ui-ux/featured.jpg') top center/cover no-repeat;
+  background: url('../images/ui-ux/featured.jpg') center no-repeat;
+  background-size: cover;
   display: flex;
 }
 
@@ -345,8 +346,10 @@ img {
 
 .ui-ux-content h2 {
   font-size: 2rem;
+  font-weight: 500;
+  text-transform: uppercase;
   margin-bottom: 1rem;
-  font-weight: 400;
+  
 }
 
 .ui-ux-content p {

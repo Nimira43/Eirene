@@ -155,6 +155,7 @@ img {
 
 .navbar a {
   color: var(--secondary);
+  text-transform: uppercase;
   transition: color 0.5s ease-in-out;
 }
 

@@ -359,10 +359,16 @@ img {
   line-height: 2;
 }
 
-.info-content i {
+.ui-ux-content i {
   margin-right: 0.5rem;
   color: var(--primary);
 }
+
+.ui-ux-left {
+  width: 50%;
+}
+
+
 
 @media(max-width: 1200px) {
   .hero .hero-flex {

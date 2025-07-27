@@ -331,6 +331,11 @@ img {
   font-weight: 400;
 }
 
+.ui-ux-container {
+  background: url('../images/ui-ux/featured.jpg') top center/cover no-repeat;
+  display: flex;
+}
+
 @media(max-width: 1200px) {
   .hero .hero-flex {
     gap: 2rem;

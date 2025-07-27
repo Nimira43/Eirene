@@ -113,8 +113,7 @@ img {
 }
 
 .navbar {
-  background: black;
-  /* background: transparent; */
+  background: rgba(0, 0, 0, 0.9);
   color: var(--primary);
   padding: 1rem 2rem;
   position: fixed;

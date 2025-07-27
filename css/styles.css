@@ -187,7 +187,7 @@ img {
   left: 0;
   width: 100%;
   background: var(--dark);
-  opacity: 0.95;
+  opacity: 0.9;
   padding: 3rem 2rem;
   text-align: center;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);

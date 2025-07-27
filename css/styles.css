@@ -349,6 +349,11 @@ img {
   font-weight: 400;
 }
 
+.ui-ux-content p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
 
 
 @media(max-width: 1200px) {

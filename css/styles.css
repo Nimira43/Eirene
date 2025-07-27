@@ -354,7 +354,10 @@ img {
   margin-bottom: 2rem;
 }
 
-
+.ui-ux-content ul li {
+  font-size: 1.2rem;
+  line-height: 2;
+}
 
 @media(max-width: 1200px) {
   .hero .hero-flex {

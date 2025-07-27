@@ -359,6 +359,11 @@ img {
   line-height: 2;
 }
 
+.info-content i {
+  margin-right: 0.5rem;
+  color: var(--primary);
+}
+
 @media(max-width: 1200px) {
   .hero .hero-flex {
     gap: 2rem;

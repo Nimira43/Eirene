@@ -343,6 +343,14 @@ img {
   padding: 4rem;
 }
 
+.ui-ux-content h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+
+
+
 @media(max-width: 1200px) {
   .hero .hero-flex {
     gap: 2rem;

@@ -288,6 +288,19 @@ img {
   margin: 1rem 0;
 }
 
+.game-dev-link,
+.backend-link {
+  color: var(--dark);
+  font-style: oblique;
+  cursor: pointer;
+  transition: color 0.3s ease-in-out;
+}
+
+.game-dev-link:hover,
+.backend-link:hover {
+  color: var(--primary);
+}
+
 .backend {
   background: var(--secondary);
   color: var(--dark);

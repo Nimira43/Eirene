@@ -422,7 +422,8 @@ img {
     margin-top: 4rem;
     margin-bottom: 4rem;   
   }
-  .game-dev-cards {
+  .game-dev-cards,
+  .microservices-cards {
     grid-template-columns: 1fr;
   }
 }

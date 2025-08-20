@@ -424,6 +424,12 @@ img {
     display: block;
     padding: 10px;
   }
+  .ui-ux-container {
+    flex-direction: column'
+  }
+  .ui-ux-content {
+    padding: 2rem;
+  }
 }
 
 @media(max-width: 576px) {

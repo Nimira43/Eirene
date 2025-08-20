@@ -288,8 +288,7 @@ img {
   margin: 1rem 0;
 }
 
-.game-dev-link,
-.backend-link {
+.linker {
   color: var(--dark);
   font-style: oblique;
   cursor: pointer;

@@ -430,6 +430,12 @@ img {
   .ui-ux-content {
     padding: 2rem;
   }
+  .ui-ux-content h2 {
+    font-size: 1.5rem;
+  }
+  .ui-ux-content p {
+    font-size: 1rem;
+  }
 }
 
 @media(max-width: 576px) {

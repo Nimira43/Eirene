@@ -371,7 +371,12 @@ img {
   width: 50%;
 }
 
-
+.microservices-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  padding: 1.5rem 0;
+}
 
 @media(max-width: 1200px) {
   .hero .hero-flex {

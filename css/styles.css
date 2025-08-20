@@ -378,6 +378,11 @@ img {
   padding: 1.5rem 0;
 }
 
+.microservices-cards .card {
+  flex-direction: row;
+  text-align: left;
+}
+
 @media(max-width: 1200px) {
   .hero .hero-flex {
     gap: 2rem;
